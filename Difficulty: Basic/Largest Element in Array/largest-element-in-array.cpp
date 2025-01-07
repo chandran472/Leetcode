@@ -13,8 +13,13 @@ using namespace std;
 class Solution {
   public:
     int largest(vector<int> &arr) {
-        sort(arr.begin(),arr.end());
-        return arr.back();
+        int largestElement = arr[0];
+        for(int i=0;i<arr.size();i++)
+        {
+            if(largestElement < arr[i])
+                largestElement=arr[i];
+        }
+        return largestElement;
     }
 };
 
