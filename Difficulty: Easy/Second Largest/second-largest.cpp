@@ -11,22 +11,20 @@ class Solution {
     // Function returns the second
     // largest elements
     int getSecondLargest(vector<int> &arr) {
-        // Code Here
-         int n = arr.size();
-        if (n < 2) return -1; // Not enough elements for a second largest
-
-        sort(arr.begin(), arr.end()); // Sort the array
-        int largest = arr[n - 1];
-        int secondLargest = -1;
-
-        // Iterate from the second last element to find the second largest
-        for (int i = n - 2; i >= 0; i--) {
-            if (arr[i] != largest) { // Check for a distinct element
-                secondLargest = arr[i];
-                break;
-            }
+      
+        int n=arr.size();
+        int largest=arr[0];
+        for(int i=1;i<n;i++)
+        {
+            if(arr[i]>largest)
+                largest=arr[i];
         }
-
+        int secondLargest=-1;
+        for(int i=0;i<n;i++)
+        {
+            if(arr[i]>secondLargest && arr[i]<largest)
+                secondLargest=arr[i];
+        }
         return secondLargest;
     }
 };
