@@ -8,13 +8,18 @@ public:
             {
                 count++;
                 if(count>1)
-                    break;
+                   break;
             }
         }
         if(nums[nums.size()-1]>nums[0])
         {
             count++;
         }
-        return count <=1;
+        if(count<=1)
+        {
+            return true;
+        }
+        else
+            return false;
     }
 };
