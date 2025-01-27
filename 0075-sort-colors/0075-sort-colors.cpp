@@ -11,9 +11,9 @@ public:
 
         // Rebuild the array in-place based on the counts in the map
         int index = 0;
-        for (auto& pair : mp) {
-            int color = pair.first;
-            int count = pair.second;
+        for (auto& temp : mp) {
+            int color = temp.first;
+            int count = temp.second;
             while (count--) {
                 nums[index++] = color;
             }
