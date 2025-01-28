@@ -2,21 +2,21 @@ class Solution {
 public:
     void sortColors(vector<int>& nums) {
         int n = nums.size();
-        map<int, int> mp;
-
-        // Count occurrences of each color
-        for (int i = 0; i < n; i++) {
-            mp[nums[i]]++;
-        }
-
-        // Rebuild the array in-place based on the counts in the map
-        int index = 0;
-        for (auto& temp : mp) {
-            int color = temp.first;
-            int count = temp.second;
-            while (count--) {
-                nums[index++] = color;
+        int low=0,mid=0,high=n-1;
+        while(mid<=high){
+            if(nums[mid]==0){
+                swap(nums[low],nums[mid]);
+                low++;
+                mid++;
             }
+            else if(nums[mid]==1){
+                mid++;
+            }
+                
+            else{
+                swap(nums[mid],nums[high]);
+                high--;
+            }    
         }
     }
 };
