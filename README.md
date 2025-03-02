@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/chandran472/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/chandran472/Leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/chandran472/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/chandran472/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Binary Search
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/chandran472/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/chandran472/Leetcode/tree/master/0443-string-compression) |
 | [1078-remove-outermost-parentheses](https://github.com/chandran472/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/chandran472/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/chandran472/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/chandran472/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
