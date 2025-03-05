@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/chandran472/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/chandran472/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/chandran472/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/chandran472/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/chandran472/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/chandran472/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/chandran472/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/chandran472/Leetcode/tree/master/0443-string-compression) |
 | [1078-remove-outermost-parentheses](https://github.com/chandran472/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/chandran472/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/chandran472/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/chandran472/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/chandran472/Leetcode/tree/master/2032-largest-odd-number-in-string) |
