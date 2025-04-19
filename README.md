@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/chandran472/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/chandran472/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/chandran472/Leetcode/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/chandran472/Leetcode/tree/master/0412-fizz-buzz) |
 | [2032-largest-odd-number-in-string](https://github.com/chandran472/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Hash Table
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/chandran472/Leetcode/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/chandran472/Leetcode/tree/master/0412-fizz-buzz) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/chandran472/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/chandran472/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Matrix
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/chandran472/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/chandran472/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/chandran472/Leetcode/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/chandran472/Leetcode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/chandran472/Leetcode/tree/master/0443-string-compression) |
 | [0812-rotate-string](https://github.com/chandran472/Leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/chandran472/Leetcode/tree/master/1078-remove-outermost-parentheses) |
