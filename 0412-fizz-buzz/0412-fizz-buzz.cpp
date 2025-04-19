@@ -12,8 +12,8 @@ public:
             else if(i%3 == 0) vec.push_back("Fizz");
             else if(i%5 == 0) vec.push_back("Buzz");
             else{
-                string ans = to_string(i);
-                vec.push_back(ans);
+                
+                vec.push_back(to_string(i));
             }
         }
 
