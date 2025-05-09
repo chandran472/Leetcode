@@ -4,25 +4,26 @@ using namespace std;
 
 
 // } Driver Code Ends
+
 class Solution {
   public:
     vector<int> findDuplicates(vector<int>& arr) {
         // code here
-        int n=arr.size();
-        unordered_map<int,int>mp;
-        vector<int>vec;
+        int n =arr.size();
+        map<int,int>mp;
+        vector<int> vec;
+        
         for(int i=0;i<n;i++)
         {
             mp[arr[i]]++;
+            
+            if(mp[arr[i]] > 1) vec.push_back(arr[i]);
         }
-        for(auto it:mp){
-            if(it.second>=2){
-                vec.push_back(it.first);
-            }
-        }
+        
         return vec;
     }
 };
+
 
 //{ Driver Code Starts.
 
