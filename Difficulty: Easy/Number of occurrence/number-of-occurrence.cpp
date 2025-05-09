@@ -6,20 +6,23 @@ using namespace std;
 
 
 // } Driver Code Ends
+
 class Solution {
   public:
     int countFreq(vector<int>& arr, int target) {
         // code here
-        int n=arr.size();
-        unordered_map<int,int>mp;
+        int n = arr.size();
+        int cnt =0;
         
         for(int i=0;i<n;i++)
         {
-            mp[arr[i]]++;
+            if(arr[i] == target) cnt++;
         }
-         return mp[target];
+        
+        return cnt;
     }
 };
+
 
 
 //{ Driver Code Starts.
