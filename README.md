@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/chandran472/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chandran472/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/chandran472/Leetcode/tree/master/0031-next-permutation) |
+| [0045-jump-game-ii](https://github.com/chandran472/Leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/chandran472/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/chandran472/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/chandran472/Leetcode/tree/master/0054-spiral-matrix) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/chandran472/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/chandran472/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/chandran472/Leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/chandran472/Leetcode/tree/master/0118-pascals-triangle) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/chandran472/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/chandran472/Leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/chandran472/Leetcode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/chandran472/Leetcode/tree/master/0890-lemonade-change) |
